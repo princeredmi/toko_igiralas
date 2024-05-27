@@ -1,0 +1,87 @@
+.warna1 {
+  background-color: #1a4d2e;
+}
+.warna2 {
+  background-color: #4f6f52;
+}
+.warna3 {
+  background-color: #9dde8b;
+}
+.warna4 {
+  background-color: #006769;
+}
+
+.benner {
+  height: 80vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/bg-2.png");
+}
+.highlighted-kategori {
+  height: 250px;
+}
+.kategori-produk-kopi {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/6K3NzHPYp3jiIzn1H4jC.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.kategori-produk-Gula {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/card-4.png");
+  background-size: cover;
+  background-position: center;
+}
+.kategori-produk-edukasi {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/M.jpg.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+.kategori-produk-Buku {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/Buku.png");
+  background-size: cover;
+  background-position: center;
+}
+.no-decoration {
+  text-decoration: none;
+  color: white;
+}
+.no-decoration:hover {
+  color: #1a4d2e;
+}
+.text-harga {
+  font-size: 20px;
+  color: #006769;
+}
+.image-box {
+  height: 250px;
+}
+.image-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.content-subscribe {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.content-subscribe {
+  color: #fff;
+}
+.benner-produk {
+  height: 50vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../image/bg-2.png");
+  background-position: 50% 30%;
+}
+.btn-primary,
+.btn-edit {
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 50px;
+  width: 100%;
+  margin-top: 0.5rem;
+}
